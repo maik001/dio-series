@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y5ikIEonlPXfrLh4nJd+IEwzIO+tyGzNbGwlTJ2WwAJA1qIrkM47gqutLnj2BWWddZeLEVzPTMHoZYeeVAcQLg==",
+  "success": true,
+  "projectFilePath": "/home/maikf/Documentos/DIO/dio-series/dio-series.csproj",
+  "expectedPackageFiles": [
+    "/home/maikf/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
